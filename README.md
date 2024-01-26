@@ -5,7 +5,7 @@
 Hands-on library to further extend CUDA.jl
 
 
-# Functions:
+### Functions:
 cleangpu(): collects garbage from both CPU and GPU memories
 
 
