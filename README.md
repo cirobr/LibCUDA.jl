@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/cirobr/LibCUDA.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/cirobr/LibCUDA.jl/actions/workflows/CI.yml?query=branch%3Amain)
 
-Hands-on library to further extend CUDA.jl
+Simple library to further extend CUDA.jl
 
 
 ### Functions:
