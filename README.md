@@ -9,6 +9,9 @@ Extension functions to CUDA.jl
 cleangpu(): collects garbage from both CPU and GPU memories
 
 
+### v0.1.1
+Compatibility limited to CUDA v5.1, as docs show v5.1.0 as stable. Latest CUDA available is v5.2.0.
+
+
 ### v0.1.0
 Initial commit.
-
