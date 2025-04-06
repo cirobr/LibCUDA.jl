@@ -1,13 +1,13 @@
 name = "LibCUDA"
 uuid = "62f6ea4e-5fa0-47a8-a0b1-4c5959d5d2d3"
 authors = ["Ciro B Rosa <ciro.rosa@alumni.usp.br>"]
-version = "0.1.1"
+version = "0.1.2"
 
 [deps]
 CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 
 [compat]
-CUDA = "3.13 - 5.6"
+CUDA = "3.13 - 5.7"
 julia = "1.8 - 1.10"
 
 [extras]
