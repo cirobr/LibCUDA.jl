@@ -7,3 +7,4 @@ Extension functions to CUDA.jl
 
 ### Functions:
 cleangpu(): collects garbage from both CPU and GPU memories
+garbage_collection(threshold): collects garbage at random (the higher the threshold is the more often it does)
