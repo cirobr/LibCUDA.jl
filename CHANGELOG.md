@@ -1,5 +1,6 @@
 ### v0.0.4
 * CUDA v6.1.0
+* Add garbage_collection()
 
 ### v0.0.3
 * CUDA v6.0.0
