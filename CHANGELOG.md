@@ -1,4 +1,4 @@
 ### v0.0.1
-* CUDA v6.0.0
-* CUDA v5.11
+* CUDA 6.4.0
+* Julia v1.13
 * Reset commit.
