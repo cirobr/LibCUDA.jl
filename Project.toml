@@ -7,7 +7,7 @@ version = "0.0.1"
 CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 
 [compat]
-CUDA = "3.13 - 6.4"
+CUDA = "3.13 - 6.5"
 julia = "1.8 - 1.13"
 
 [extras]
